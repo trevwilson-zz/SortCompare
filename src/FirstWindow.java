@@ -9,7 +9,6 @@
 *@version 1.0, 12/1/2011
 */
 
-import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 

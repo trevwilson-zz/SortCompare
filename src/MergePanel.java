@@ -11,8 +11,8 @@
 */
 import java.awt.*;
 import javax.swing.*;
-import java.awt.event.*;
 
+@SuppressWarnings("serial")
 public class MergePanel extends JPanel{
 
 	int[] mergeArray;

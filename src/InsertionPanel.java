@@ -12,8 +12,8 @@
 
 import java.awt.*;
 import javax.swing.*;
-import java.awt.event.*;
 
+@SuppressWarnings("serial")
 public class InsertionPanel extends JPanel{
 
 	int[] insertionArray;

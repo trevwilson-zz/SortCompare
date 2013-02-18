@@ -15,6 +15,7 @@ import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 
+@SuppressWarnings("serial")
 public class SortWindow extends JPanel{
 
 	boolean selectionEnable, selectionRandom, insertionEnable, insertionRandom, bubbleEnable, bubbleRandom, mergeEnable, mergeRandom;

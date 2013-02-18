@@ -13,6 +13,7 @@
 import java.awt.*;
 import javax.swing.*;
 
+@SuppressWarnings("serial")
 public class BubblePanel extends JPanel{
 
 	boolean enabled, randomCase;
