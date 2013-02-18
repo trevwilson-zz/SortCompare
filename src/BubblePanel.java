@@ -12,12 +12,13 @@
 
 import java.awt.*;
 import javax.swing.*;
-import java.awt.event.*;
 
 public class BubblePanel extends JPanel{
 
+	boolean enabled;
+	boolean randomCase;
 	int[] bubbleArray;
-	boolean enabled, randomCase;
+	
 
 	/**
 	*Takes in arguments to indicate whether the sort should be performed
