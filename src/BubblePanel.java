@@ -15,8 +15,7 @@ import javax.swing.*;
 
 public class BubblePanel extends JPanel{
 
-	boolean enabled;
-	boolean randomCase;
+	boolean enabled, randomCase;
 	int[] bubbleArray;
 	
 
