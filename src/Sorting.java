@@ -8,7 +8,7 @@
 public class Sorting{
 
 	public static void main(String[] args){
-		System.out.println("Starting up now");
+		System.out.println("Starting");
 		new FirstWindow();
 	}
 }
